@@ -1,3 +1,5 @@
+## 1.0.2
+- add issues page
 ## 1.0.1
 - Updated documentation for clearer implementation guidance.
 ## 1.0.0

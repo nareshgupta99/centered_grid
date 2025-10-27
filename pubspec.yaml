@@ -3,7 +3,7 @@ description: "A customizable Flutter grid widget that automatically centers the 
 version: 1.0.1
 homepage: https://github.com/nareshgupta99/centered_grid
 repository: https://github.com/nareshgupta99/centered_grid
-issue_tracker: https://github.com/nareshgupta99/centered_grid/issue
+issue_tracker: https://github.com/nareshgupta99/centered_grid/issues
 environment:
   sdk: ^3.7.0
 dependencies:
