@@ -1,6 +1,6 @@
 name: centered_grid
 description: "A customizable Flutter grid widget that automatically centers the last row when the number of items is less than the cross-axis count."
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/nareshgupta99/centered_grid
 repository: https://github.com/nareshgupta99/centered_grid
 issue_tracker: https://github.com/nareshgupta99/centered_grid/issue
